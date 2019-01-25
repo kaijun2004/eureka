@@ -1,6 +1,6 @@
 FROM hub.c.163.com/library/java:8-alpine
 
-MAINTAINER XXX XXX@imooc.com
+MAINTAINER kaijun.yuan 17761291283@126.com
 
 ADD target/*.jar app.jar
 
